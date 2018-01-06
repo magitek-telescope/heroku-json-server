@@ -1,0 +1,5 @@
+{
+  "todos": [
+    { "id": 1, "name": "Initial Task", "user": 1, "isComplete": false }
+  ]
+}
