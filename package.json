@@ -1,0 +1,14 @@
+{
+  "name": "heroku-json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/magitek-telescope/heroku-json-server.git",
+  "author": "HANATANI Takuma <mail@potato4d.me>",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server db.json --port $PORT"
+  },
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
